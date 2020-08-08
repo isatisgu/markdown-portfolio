@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# thats a great journey to learn Markdown
+## how could the GitHub guide be such amazing!
