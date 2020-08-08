@@ -1,1 +1,1 @@
-![Image of cat](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1596860693884&di=70fe0c7793e16c951c7e41859ede86f0&imgtype=0&src=http%3A%2F%2Fimg.kalaxing.com%2F5bc0698d720415167de67f79.jpeg)
+![Image of cat]()
